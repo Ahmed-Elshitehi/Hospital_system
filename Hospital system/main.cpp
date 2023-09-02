@@ -1,5 +1,3 @@
-#pragma clang diagnostic push
-#pragma ide diagnostic ignored "hicpp-multiway-paths-covered"
 /*
  *    Author       : Ahmed Salah El-din Elshitehi
  *    Description  : Hospital system
